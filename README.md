@@ -1,6 +1,7 @@
-# new_project1
+# School Library Card
 
-A new Flutter project.
+A new Flutter project to understand the basic concept of provider package.
+
 
 ## Getting Started
 
